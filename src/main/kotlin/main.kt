@@ -1,5 +1,5 @@
 fun main() {
-    var userName: String = "Biwberry"
+    val userName: String = "Biwberry"
     var age: Int = 28
 
     println("Hello World! My name is $userName. I'm $age years old.")
