@@ -1,4 +1,6 @@
 fun main() {
+
+    // Variables
     val userName: String = "Biwberry"
     var age: Int = 28
 
